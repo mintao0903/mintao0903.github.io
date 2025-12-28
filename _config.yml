@@ -13,10 +13,10 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Min Tao"
 description              : &description "Min Tao's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://Szqlc.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://mintao0903.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Szqlc/Szqlc.github.io"
+repository               : "mintao0903/mintao0903.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   avatar           : "Min Tao_fig.png"
   name             : "Min Tao(陶敏)"
   pronouns         : # example: "she/her"  
-  bio              : "Professor"
+  bio              : "Professor (PHD supervisor)"
   location         : "Nanjing, Jiangsu, P.R.China"
   employer         : "Nanjing University"
   uri              : # URL
