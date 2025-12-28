@@ -25,6 +25,6 @@ Work Experience
 
 Visiting Experience
 ======
-- 2022.12-2023.12, Visiting Scholar, The University of Vienna (with Prof. Radu Ioan Bot)
-- 2016.03-2017.05, Visiting Scholar, University of Southern California (with Prof. JongShi Pang)
-- 2012.09-2013.09, Postdoc, The Chinese University of Hong Kong (with Prof. Raymond H. Chan)
+- 2022.12-2023.12, Visiting Scholar, The University of Vienna (with [Prof. Radu Ioan Bot](https://www.mat.univie.ac.at/~rabot/))
+- 2016.03-2017.05, Visiting Scholar, University of Southern California (with [Prof. JongShi Pang](https://viterbi.usc.edu/directory/faculty/Pang/Jong-shi)
+- 2012.09-2013.09, Postdoc, The Chinese University of Hong Kong (with [Prof. Raymond H. Chan](https://scholars.ln.edu.hk/en/persons/raymond-chan/)
