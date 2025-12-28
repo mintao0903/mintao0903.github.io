@@ -13,7 +13,7 @@ Memberships
 
 Editorial
 ======
-* SIAM Journal on Scientific Computing
-* SIAM Journal on Optimization 
+* The Journal of the Franklin Institute
+
 
 ------
