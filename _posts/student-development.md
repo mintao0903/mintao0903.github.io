@@ -1,7 +1,7 @@
 ---
 title: 'Student Development'
 date: 2025-12-01
-permalink: /miscellaneous/student-development
+permalink: /posts/student-development
 tags:
   - cool posts
   - category1
