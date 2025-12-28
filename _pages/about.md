@@ -9,7 +9,6 @@ redirect_from:
 Short Bio
 ======
 - Tao Min is a professor at the [School of Mathematics](https://math.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/). The representative works have been published in leading journals such as the SIAM Journal on Optimization, Mathematics of Computation, as well as in the premier computer science conference NeurIPS (formerly NIPS).
-- She has received several notable honors, including the Outstanding Young Paper Award from the Chinese Society for Computational Mathematics (2011), recognition as an Outstanding Ph.D. Graduate of Jiangsu Province, and the Best Paper Award at the International Congress of Chinese Mathematicians (2017). Several of her publications are highly cited, with one recognized as a "Hot Paper" in the Chinese scientific community.Dr. Tao has led multiple research projects funded by the National Natural Science Foundation of China, including both Youth and General Programs, as well as a General Project funded by Jiangsu Province.
 - Research interest:Theory and applications of optimization algorithms, First-order methods and applications in machine learning
 - Office: Room 1108-3，Mengminwei Building
 - Address: West Building of Gulou Campus, 22 Hankou Road, Nanjing, China
