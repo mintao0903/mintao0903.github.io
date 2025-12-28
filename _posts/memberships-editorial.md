@@ -1,7 +1,7 @@
 ---
 title: 'Memberships & Editorial'
 date: 2025-12-01
-permalink: /miscellaneous/memberships-editorial
+permalink: /posts/memberships-editorial
 tags:
   - cool posts
   - category1
