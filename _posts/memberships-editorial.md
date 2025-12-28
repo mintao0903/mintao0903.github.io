@@ -1,7 +1,7 @@
 ---
-title: 'Blog Post number 5'
-date: 2016-08-14
-permalink: /posts/2016/08/blog-post-5/
+title: 'Memberships & Editorial'
+date: 2025-11-21
+permalink: /posts/2025/11/memberships-editorial/
 tags:
   - cool posts
   - category1
