@@ -9,7 +9,7 @@ redirect_from:
 Short Bio
 ======
 - Tao Min is a professor at the [School of Mathematics](https://math.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/) and has led multiple research projects funded by the [National Natural Science Foundation of China](https://www.nsfc.gov.cn/), including both Youth and General Programs, as well as a General Project funded by Jiangsu Province. The representative works have been published in leading journals such as the SIAM Journal on Optimization, Mathematics of Computation, as well as in the premier computer science conference NeurIPS (formerly NIPS).
-- Research interest:Theory and applications of optimization algorithms, First-order methods and applications in machine learning
+- Research interest: Theory and applications of optimization algorithms, First-order methods and applications in machine learning
 - Office: Room 1108-3，Mengminwei Building
 - Address: West Building of Gulou Campus, 22 Hankou Road, Nanjing, China
 - Email: taom[AT]nju.edu.cn
