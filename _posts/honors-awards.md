@@ -1,7 +1,7 @@
 ---
 title: 'Honors & Awards'
 date: 2025-12-01
-permalink: /miscellaneous/honors-awards
+permalink: /posts/honors-awards
 tags:
   - cool posts
   - category1
