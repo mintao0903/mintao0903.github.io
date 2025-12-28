@@ -6,7 +6,7 @@ tags:
   - student development
 ---
 
-PhD student
+Ph.D. student
 ======
 
 Master student
