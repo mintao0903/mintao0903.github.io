@@ -1,7 +1,7 @@
 ---
 title: 'Honors & Awards'
 date: 2025-10-14
-permalink: /posts/2025/10/honors-awards/
+permalink: /posts/2025/10/blog-post-2/
 tags:
   - cool posts
   - category1
