@@ -6,9 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Short Bio
-======
-- Welcome to my homepage! I am a professor at Nanjing University, nanjing. My major interests are optimization and deep learning, and most recently, large foundational models.Tao Min is a professor at the [School of Mathematics](https://math.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/) and has led multiple research projects funded by the [National Natural Science Foundation of China](https://www.nsfc.gov.cn/), including both Youth and General Programs, as well as a General Project funded by Jiangsu Province. The representative works have been published in leading journals such as the SIAM Journal on Optimization, Mathematics of Computation, as well as in the premier computer science conference NeurIPS (formerly NIPS).
+
+Welcome to my homepage! I am a professor at Nanjing University, nanjing. My major interests are optimization and deep learning, and most recently, large foundational models.Tao Min is a professor at the [School of Mathematics](https://math.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/) and has led multiple research projects funded by the [National Natural Science Foundation of China](https://www.nsfc.gov.cn/), including both Youth and General Programs, as well as a General Project funded by Jiangsu Province. The representative works have been published in leading journals such as the SIAM Journal on Optimization, Mathematics of Computation, as well as in the premier computer science conference NeurIPS (formerly NIPS).
 - Email: taom[AT]nju.edu.cn
   
 Research interest
