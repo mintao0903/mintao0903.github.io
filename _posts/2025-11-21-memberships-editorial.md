@@ -6,14 +6,12 @@ tags:
   - membership
   - editorial
 ---
-Memberships
-======
-* Council Member of the Mathematical Programming Society of the Operations Research Society of China 
-* Invited Reviewer of the American Mathematical Society (AMS)
-
 Editorial
 ======
-* The Journal of the Franklin Institute
+*Associate Editor of The Journal of the Franklin Institute
+
+
+
 
 
 ------
