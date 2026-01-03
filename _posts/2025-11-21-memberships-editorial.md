@@ -8,7 +8,7 @@ tags:
 ---
 Editorial
 ======
-*Associate Editor of The Journal of the Franklin Institute
+*Associate Editor of [The Journal of the Franklin Institute](https://www.sciencedirect.com/journal/journal-of-the-franklin-institute)
 
 
 
